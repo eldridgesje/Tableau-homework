@@ -1,0 +1,40 @@
+2018-2020 Ridership Analysis
+
+
+Station Map Analysis
+
+Cycling through the month-by-month pages on the station map, several trends become apparant:
+
+First, the yearly cycle of ridership pops out, with most stations growing in ridership in the Summer months and shrinking in the Winter months.
+
+Second, the increase in ridership in 2019 from 2018 is clear, as the density of ridership grows year-over-year.
+
+Third, it's clear that while 2020 sees many months with an increased ridership, April of that year is a very low point, with virtually every station dropping dramatically.
+
+Fourth, we can watch the number of stations grow in the latter half of 2020, expanding from the tight network of the previous two years to spread North signficantly.
+
+
+Ridership Over Time Dashboard (Phenomenon: Effect of Covid-19 Pandemic on Ridership)
+
+On the "Trip Map by Year" visualization, we can see that 2019 saw signficant growth over 2018, with approximately three million additional trips logged over the previous year. However, 2020 saw a drop in total trips, despite a clear expansion in the number of stations.
+
+Examining rider demographics, we can see that in 2020, women made up a somewhat larger percentage of total trips, as did young riders. At a glance, this seems like a positive development for future growth. So why did ridership fall?
+
+The obvious answer is, of course, the Covid-19 epidemic. Looking at monthly ridership, we see that 2020 started off ahead of both 2018 and 2019, but suffered an idiosyncratic drop in March and especially April, as the intiial wave of Covid spread across the area. Ridership recovered slowly, and by the fall was once again exceeding 2019 numbers.
+
+This is corroborated somewhat by the decline in ridership by subscribers. As you can see in the Ride Timing dashboard, it appears many subscribers are regular commuters, and the disruption in work likely led to a large number of people forgoing their usual bike ride to work.
+
+Encouragingly, despite the wide spread of Covid in the Fall and Winter, ridership has continued to recover well and we should expect a return to growth despite the ups and downs fo the pandemic.
+
+
+Ride Timing Dashboard (Phenomenon: Persistent subscriber/commuter base over seasons)
+
+On the "Monthly Ridership" visualization, we can see that there's a clear seasonal pattern to ridership, with ridership dropping significantly in Fall and Winter and rising in Spring and Summer.
+
+Oddly, however, the time of day that people ride changes with the seasons -- while in all seasons, rush hours around 8 AM and 5 PM are the most popular for rides, in the Winter these peaks are symmetrical, while in other seasons -- especially summer -- the evening peak is considerably higher.
+
+Looking at daily trips by rider type, we see that the great majority of rides are taken by subscribers. However, on the weekend, subscribers ride substantially less, and other riders ride more. This implies that many subscribers use their subscriptions to commute to and from work.
+
+By looking at hourly trips by rider broken out by customers and subscribers, we can see that this pattern is almost entirely the product of subscribers -- customers tend to peak in the middle of the day or in the evening without a significant morning peak. Further, comparing Weekend days to Weekday days shows that both customers and subscribers peak in the afternoon on the weekends. Customers show little difference between weekdays and weekends, while subscribers behave very differently on the weekends. These patterns are consistent across seasons.
+
+These phenomena in aggregate are consistent with there being a large base of subscribers who ride for their regular commute, once in the morning and once in the evening. However, in addition to that base, many riders -- many subscribers as well as customers -- appear to ride for less regular transportation, often in the evenings. This suggests a fairly high floor to consistent use, as many people rely on their subscriptions for their jobs.
